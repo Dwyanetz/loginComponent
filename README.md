@@ -1,3 +1,3 @@
 # loginComponent
-to create a login componen
-setset
+to create a login component
+
